@@ -2,6 +2,7 @@
 Learning how this works!
 
 I'm 23 years old and not getting any younger!
+
 I'm a long haired, tree hugging hippie, and a brand new developer.
 
 I speak 3 languages moderately well, though I've dipped my toes into many.
